@@ -1,4 +1,10 @@
-# ZG ZoneMisions 1.2.1
+# ZG ZoneMisions 1.2.2
+
+## Update / Actualización — 2026-10-17
+
+Selected version / Versión seleccionada: **server 1.2.2 / client 1.2.2**. New file availability depends on CurseForge approval / La disponibilidad de los archivos nuevos depende de su aprobación en CurseForge.
+
+See [changes, exact files and installation](UPDATES-2026-10-17.md) / Consulta [cambios, archivos e instalación](UPDATES-2026-10-17.md). Preserve the world and TOML files / Conserva mundo y TOML.
 
 ## Español
 
@@ -6,7 +12,7 @@ Misiones diarias de Minecraft 1.20.1 / Forge 47.x con progreso y premios validad
 
 ### Instalación
 
-En la misma página de CurseForge descarga **ZoneMisions Server 1.2.1** para el servidor y **ZoneMisions Client 1.2.1** para cada jugador. Ambos usan el protocolo de red 3 y deben coincidir en versión. El servidor requiere **ZoneCore 2.1.3+** y **ZoneCrates 2.0.6+**; el cliente no instala los JAR de servidor de esas dependencias. Retira versiones anteriores antes de reiniciar. ZoneRanks es opcional para gestionar permisos.
+En la misma página de CurseForge descarga **ZoneMisions Server 1.2.2** para el servidor y **ZoneMisions Client 1.2.2** para cada jugador. Ambos usan el protocolo de red 3 y deben coincidir en versión. El servidor requiere **ZoneCore 2.1.3+** y **ZoneCrates 2.0.6+**; el cliente no instala los JAR de servidor de esas dependencias. Retira versiones anteriores antes de reiniciar. ZoneRanks es opcional para gestionar permisos.
 
 ### Comandos y permisos
 
@@ -25,7 +31,7 @@ Daily missions for Minecraft 1.20.1 / Forge 47.x. The server validates progress 
 
 ### Installation
 
-Download **ZoneMisions Server 1.2.1** for the server and **ZoneMisions Client 1.2.1** for every player from the **same CurseForge project**. Both sides use network protocol 3 and must have matching versions. The server needs **ZoneCore 2.1.3+** and **ZoneCrates 2.0.6+**; clients do not install those server JARs. Remove older ZoneMisions versions before restarting. ZoneRanks is optional for permission management.
+Download **ZoneMisions Server 1.2.2** for the server and **ZoneMisions Client 1.2.2** for every player from the **same CurseForge project**. Both sides use network protocol 3 and must have matching versions. The server needs **ZoneCore 2.1.3+** and **ZoneCrates 2.0.6+**; clients do not install those server JARs. Remove older ZoneMisions versions before restarting. ZoneRanks is optional for permission management.
 
 ### Commands and permissions
 
